@@ -5,7 +5,7 @@
  3. What to Avoid / Stop
 
  ## What to Maintain ##
- - # Allocate a portion of each week to individual / self care time. (5 hrs / week)
+ - Allocate a portion of each week to individual / self care time. (5 hrs / week)
  - Allocate a portion of each week to time with Elisa / getting out of the apartment. (3-5 hrs / week)
  - Allocate an opportunity between each *module* to time having friends over for a DnD session.
  - Continue eating properly, look into Factor meal kits or similar for convenience.
