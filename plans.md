@@ -34,7 +34,12 @@
 
 ### Begin using Apartment Complex exercise room!
 - This is a simple one - use the resource I have available to allow myself options for exercise even throughout the winter. Use the treadmills while reviewing hand written notes or listening to podcasts, or even while listening to the next lesson / section on the Udemy course for JS.
-- When feeling frustrated in general, use exercise to break the cycle and use the energy for positive growth or stress relief. 
+- When feeling frustrated in general, use exercise to break the cycle and use the energy for positive growth or stress relief.
+
+### CALENDARING
+- Spend at least 1 hour per week leading up to Turing establishing what an operational schedule might end up looking like during the course. Each week is an opportunity to revise and refactor this process, and within 2-3 weeks I anticipate I can have an accurate general structure that I would like to follow going forward. 
+- Make sure to set up specific times for hiking, extracurricular time with Elisa for dates and trips within the area, etc. 
+- Establish what times of day are ideal for sitting alone and working vs what times of day might allow working nearby to Elisa.
 
 ### Decorate for the Holidays
 - Work on whatever decoration Elisa and I want up in time for Christmas before Mod 1 starts: This will be a morale boost and it will also take a time-expensive activity off of the incoming hectic schedule.
